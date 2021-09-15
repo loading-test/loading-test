@@ -27,12 +27,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test&show_icons=true)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test&show_icons=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test)
-<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test&layout=compact)
 <br />
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?loading-test=willianrod)
