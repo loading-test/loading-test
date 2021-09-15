@@ -27,6 +27,6 @@
 <!-- ![Anurag's GitHub stats](align="left" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test&layout=compact)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test)](https://github.com/loading-test/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test)
 
 
