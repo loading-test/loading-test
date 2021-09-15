@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Adel
 
-<!--
-**loading-test/loading-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a FrontEnd Developer
+- Люблю кодить
+- Очень нравится мир программирования
+- Прохожу курсы по JavaScript Developer, React
+- Нравится тема машин и все, что с ними связано
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img aling="left" alt="AdelAbsalyamov | Instagram" width="22px" src="https://ikonki.svgpng.ru/wp-content/uploads/2020/06/Instagram-1-128x128.png" />] [instagram]
+[<img aling="left" alt="AdelAbsalyamov | Telegram" width="22px" src="https://ikonki.svgpng.ru/wp-content/uploads/2020/06/Telegram-5-128x128.png" />] [telegram]
+[<img aling="left" alt="AdelAbsalyamov | VK" width="22px" src="https://ikonki.svgpng.ru/wp-content/uploads/2020/11/Vk-128x128.png" />] [vk]
