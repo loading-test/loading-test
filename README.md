@@ -22,3 +22,20 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test&show_icons=true)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test&show_icons=true)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test&layout=compact)
+<br />
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?loading-test=willianrod)
+
+
+
