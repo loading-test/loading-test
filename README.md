@@ -8,7 +8,7 @@
 
 ### Связаться со мной:
 
-< href="https://www.instagram.com/a.adel888/"> <img align="left" alt="AdelAbsalyamov|Instagram" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1464538-1239449.png" /> </a>
+<a href="https://www.instagram.com/a.adel888/"> <img align="left" alt="AdelAbsalyamov|Instagram" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1464538-1239449.png" /> </a>
 <a href="https://t.me/adel_888"> <img align="left" alt="AdelAbsalyamov|Telegram" width="24px" src="https://thumbs.dreamstime.com/b/telegram-logo-icon-voronezh-russia-january-black-round-soft-shadow-171161277.jpg" /> </a>
 <a href="https://vk.com/adilabramov"> <img align="left" alt="AdelAbsalyamov|VK" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/vk-18-898139.png" /></a>
 
