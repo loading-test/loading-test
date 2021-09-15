@@ -14,7 +14,7 @@
 
 <br />
 
-## Языки и инструменты:
+### Языки и инструменты:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -25,7 +25,7 @@
 
 <br/>
 
-### Статусы:
+## Статусы:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test&show_icons=true&theme=dark)
 <br/>
