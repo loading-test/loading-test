@@ -1,6 +1,6 @@
 ### Здравствуйте 👋, меня зовут Адель
 
-![](https://komarev.com/ghpvc/?loading-test=your-github-loading-test&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-loading-test)
 
 
 ## Я FrontEnd разработчик
