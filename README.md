@@ -8,9 +8,9 @@
 
 ### Связаться со мной:
 
-[<img align="left" alt="AdelAbsalyamov|Instagram" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1464538-1239449.png" />]
-[<img align="left" alt="AdelAbsalyamov|Telegram" width="24px" src="https://thumbs.dreamstime.com/b/telegram-logo-icon-voronezh-russia-january-black-round-soft-shadow-171161277.jpg" />]
-[<img align="left" alt="AdelAbsalyamov|VK" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/vk-18-898139.png" />]
+<img align="left" alt="AdelAbsalyamov|Instagram" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1464538-1239449.png" />
+<img align="left" alt="AdelAbsalyamov|Telegram" width="24px" src="https://thumbs.dreamstime.com/b/telegram-logo-icon-voronezh-russia-january-black-round-soft-shadow-171161277.jpg" />
+<img align="left" alt="AdelAbsalyamov|VK" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/vk-18-898139.png" />
 
 
 <br />
