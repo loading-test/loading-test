@@ -25,11 +25,10 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loading-test&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loading-test&layout=compact)
 <br />
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?loading-test=willianrod)
-
 
 
